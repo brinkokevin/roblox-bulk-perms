@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Roblox API Key Bulk Permissions",
+  "version": "1.0.0",
+  "description": "Paste a list of Open Cloud scopes and select them all on the Roblox Create API Key page.",
+  "content_scripts": [
+    {
+      "matches": ["https://create.roblox.com/dashboard/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
