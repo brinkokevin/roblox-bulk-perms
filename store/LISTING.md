@@ -8,7 +8,7 @@ Upload `roblox-bulk-perms.zip` from the latest GitHub release (manifest.json is 
 **Description**
 
 ```
-Paste a list of permissions on Roblox's Create API Key page and select them all at once.
+Roblox makes you add API key permissions one dropdown click at a time, which gets tedious fast. Paste a list of permissions on the Create API Key page and select them all at once.
 
 Open source: https://github.com/brinkokevin/roblox-bulk-perms
 Not affiliated with Roblox.
