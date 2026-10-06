@@ -17,9 +17,11 @@ memory-stores                        # a whole API system, as named in the dropd
 
 ## Install
 
-Grab the files from the [latest release](https://github.com/brinkokevin/roblox-bulk-perms/releases/latest).
+**Chrome, Vivaldi, Edge, Brave, Arc, Opera:** install from the
+[Chrome Web Store](https://chromewebstore.google.com/detail/iagdnmlifpmcfnkpageanbdkolofnail).
 
-**Chrome, Vivaldi, Edge, Brave, Arc, Opera:** download `roblox-bulk-perms.zip` and unzip it. Open
+To install manually instead, download `roblox-bulk-perms.zip` from the
+[latest release](https://github.com/brinkokevin/roblox-bulk-perms/releases/latest) and unzip it. Open
 `chrome://extensions` (in Vivaldi, `vivaldi://extensions`), turn on Developer mode, click **Load unpacked**,
 and pick the unzipped folder.
 
