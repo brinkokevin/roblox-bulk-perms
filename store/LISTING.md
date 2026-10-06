@@ -8,15 +8,7 @@ Upload `roblox-bulk-perms.zip` from the latest GitHub release (manifest.json is 
 **Description**
 
 ```
-Select all your Roblox API key permissions at once.
-
-Paste a list on the Create API Key page and click Apply:
-• universe-datastores.objects:read (one operation)
-• universe.secret (a whole scope)
-• memory-stores (a whole API system)
-• * (everything)
-
-Only fills the permission dropdowns. You still save the key yourself, and the extension never reads or sends it.
+Paste a list of permissions on Roblox's Create API Key page and select them all at once.
 
 Open source: https://github.com/brinkokevin/roblox-bulk-perms
 Not affiliated with Roblox.
