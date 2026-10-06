@@ -1,4 +1,4 @@
-# Roblox API Key Bulk Permissions
+# API Key Bulk Permissions for Roblox
 
 Adds a **Bulk add permissions** box to the Access Permissions section of the Create API Key page
 on create.roblox.com. Paste a list, click Apply, and every matching operation gets selected.

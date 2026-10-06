@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Roblox API Key Bulk Permissions
+// @name         API Key Bulk Permissions for Roblox
 // @namespace    roblox-bulk-perms
-// @version      1.0.0
+// @version      1.0.1
 // @description  Paste a list of Open Cloud scopes and select them all on the Create API Key page.
 // @match        https://create.roblox.com/dashboard/*
 // @homepageURL  https://github.com/brinkokevin/roblox-bulk-perms
