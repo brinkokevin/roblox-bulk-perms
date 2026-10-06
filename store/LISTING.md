@@ -44,7 +44,7 @@ Adds a paste box to the Create API Key form on create.roblox.com/dashboard. Runs
 - I do not use or transfer user data for purposes that are unrelated to my item's single purpose
 - I do not use or transfer user data to determine creditworthiness or for lending purposes
 
-**Privacy policy URL:** https://github.com/brinkokevin/roblox-bulk-perms#what-it-does-and-doesnt-do
+**Privacy policy URL:** https://github.com/brinkokevin/roblox-bulk-perms/blob/main/PRIVACY.md
 
 ## Distribution tab
 
