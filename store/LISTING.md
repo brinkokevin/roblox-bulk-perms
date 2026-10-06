@@ -8,21 +8,18 @@ Upload `roblox-bulk-perms.zip` from the latest GitHub release (manifest.json is 
 **Description**
 
 ```
-Creating a Roblox Open Cloud API key means picking every permission one dropdown at a time. This extension adds a "Bulk add permissions" box to the Create API Key page on create.roblox.com: paste a list, click Apply, and every matching permission is selected for you.
+Select all your Roblox API key permissions at once.
 
-What you can paste (one per line, or separated by commas or spaces):
-• universe-datastores.objects:read (one operation, the same text the permission chips show)
-• universe.secret (every operation of a scope)
-• memory-stores (a whole API system, as named in the dropdown)
+Paste a list on the Create API Key page and click Apply:
+• universe-datastores.objects:read (one operation)
+• universe.secret (a whole scope)
+• memory-stores (a whole API system)
 • * (everything)
 
-"Copy current" copies the permissions already selected on the form as a list you can paste next time.
+Only fills the permission dropdowns. You still save the key yourself, and the extension never reads or sends it.
 
-You stay in control: the extension only fills in the permission dropdowns. You still name the key and click "Save & Generate Key" yourself, and the extension never reads, stores or sends the generated key.
-
-Needs no extension permissions and runs only on create.roblox.com/dashboard. Open source: https://github.com/brinkokevin/roblox-bulk-perms
-
-Not affiliated with or endorsed by Roblox Corporation.
+Open source: https://github.com/brinkokevin/roblox-bulk-perms
+Not affiliated with Roblox.
 ```
 
 **Category:** Developer Tools
@@ -38,13 +35,13 @@ Not affiliated with or endorsed by Roblox Corporation.
 **Single purpose**
 
 ```
-Selects multiple permissions at once on the Roblox Create API Key page, from a list the user pastes.
+Selects multiple permissions at once on the Roblox Create API Key page.
 ```
 
 **Host permission justification** (for the content script on create.roblox.com/dashboard/*)
 
 ```
-The extension's only function is adding a paste box to the Create API Key form on create.roblox.com/dashboard and selecting the permissions the user lists there. It runs on no other site.
+Adds a paste box to the Create API Key form on create.roblox.com/dashboard. Runs on no other site.
 ```
 
 **Are you using remote code?** No, I am not using remote code.
